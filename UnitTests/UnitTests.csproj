@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <AssemblyName>Microsoft.IO.RecyclableMemoryStream.UnitTests</AssemblyName>
+    <AssemblyName>LIFEfreedom.IO.RecyclableMemoryStream.UnitTests</AssemblyName>
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <DebugType>Full</DebugType> <!-- NUnit in VS2017 needs this instead of the new slimmer PDBs -->
   </PropertyGroup>
